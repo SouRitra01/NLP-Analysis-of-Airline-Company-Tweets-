@@ -1,0 +1,11 @@
+“Tweets” dataset has the tweets from an airline company. Perform the following activities given the above dataset using Python & ML
+1. Build a classification model using the airline_sentiment column as the target variable and use the “text” column as the input text for the model
+2. Perform the following preprocessing
+a. Clean the text
+b. Create Document term matrix using the TFIDFVectorizer
+c. Add additional variables or features from the dataset to improve the performance
+d. Perform lemmatisation or any other form of text cleansing
+e. Create a feature that counts the number of punctuation marks per each sentence
+f. Create a feature that counts the length of each tweet
+3. Compute metrics such as precision recall and classification for all the three classes
+4. Build a feed forward neural network that can perform multi class classification
