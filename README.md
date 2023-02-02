@@ -18,5 +18,8 @@ In this project, I used natural language processing techniques to analyze tweets
 - The most common topics discussed in the tweets included flight cancellations, customer service, and baggage issues
 - A strong relationship was found between negative sentiment and tweets related to flight cancellations and customer service issues
 
+## Expected Results:
+The expected results I achieved were an accurate model that can predict the sentiment of tweets from airline companies. I evaluated the model's accuracy and deployed it for making predictions on new tweets.
+
 ## Conclusion:
-The results of this analysis provide valuable insights into the perception of customers towards the airline company. By identifying key issues and sentiments, the company can take steps to improve customer satisfaction and experience. This project demonstrated my ability to apply NLP techniques to real-world data and extract meaningful insights.
+In conclusion, I successfully completed a project that analyzes the sentiment of tweets from airline companies using NLP and machine learning. The results of this project can be useful for airline companies who are interested in understanding their customers' opinions and perceptions. The model I developed can help them gain insights into customer sentiment and improve their services accordingly.
